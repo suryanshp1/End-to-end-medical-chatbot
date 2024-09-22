@@ -58,7 +58,7 @@ python app.py
 
 #### STEP: 07 - Now open http://localhost:5000
 
-
+--------
 ### Techstack Used:
 
 - Python
